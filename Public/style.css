@@ -1,0 +1,12 @@
+.stylecard{
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+    padding-bottom: 10%;
+    /* color: rgba(27, 90, 119, 0.75); */
+    padding-left: 25% !important;
+    padding-right: 25%;
+    width: 50% !important;
+    
+}
